@@ -1,0 +1,34 @@
+{
+    "basics": {
+      "name": "Mohana Priya M K",
+      "email": "m.k.mohanapriya@gmail.com",
+      "phone": "9884598011",
+
+      "location": [{
+        "address": "Nattu subbaraya St",
+        "postalCode": "600004",
+        "city": "Chennai"
+      }],
+      "Qualifications":[{
+        "M.Phil":"65%", 
+        "M.Sc":"60%",
+        "B.Sc":	"77%"
+      }],
+      "work": [{
+      "name": "V. Ramakrishna polytechnic College",
+      "position": "Lecturer",
+      "startDate": "2011-07-01",
+      "endDate": "2022-01-01",
+    }],
+    
+    "skills":"MS-Office",
+
+    "languages": [{
+      "language": ["English", "Tamil"]
+    }],
+
+    "references": [{
+      "name": "Mr. Sundaravadivel",
+      "reference": "Principal"
+    }]}
+    }
